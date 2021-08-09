@@ -73,6 +73,7 @@ html{
      flex-direction: column;
      padding: 3px 200px;
      height: 600px;
+     color:black;
      justify-content: center;
      align-items: center;
  }
@@ -95,7 +96,7 @@ html{
     font-family: 'Bree Serif', serif;
 }
 #home p{
-    color: white;
+    color: silver;
     test-align: center;
     font-size: 1rem;
     font-family: 'Bree Serif', serif;
@@ -223,6 +224,6 @@ html{
   
 #footer{
     background-color: black;
-    color: white;
+    color: silver;
     padding: 9px 20px; 
 }
